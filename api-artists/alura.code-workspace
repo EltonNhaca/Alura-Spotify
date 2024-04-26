@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "alura",
+			"path": ".."
+		},
+		{
+			"name": "assets",
+			"path": "../../rascunho/spotify-imersao/spotify-imersao/src/assets"
+		}
+	],
+	"settings": {}
+}
